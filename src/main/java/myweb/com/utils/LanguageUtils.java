@@ -3,7 +3,7 @@
  * Automation Framework Selenium
  */
 
-package myweb.com.helpers;
+package myweb.com.utils;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
