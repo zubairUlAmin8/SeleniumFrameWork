@@ -15,11 +15,7 @@
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:4.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:4.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.5.3" level="project" />
-    <orderEntry type="library" name="Maven: com.google.auto.service:auto-service-annotations:1.0.1" level="project" />
-    <orderEntry type="library" name="Maven: com.google.auto.service:auto-service:1.0.1" level="project" />
-    <orderEntry type="library" name="Maven: com.google.auto:auto-common:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chromium-driver:4.5.3" level="project" />
-    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-json:4.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-devtools-v104:4.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-devtools-v105:4.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-devtools-v106:4.5.3" level="project" />
@@ -194,5 +190,10 @@
     <orderEntry type="library" name="Maven: com.squareup.okhttp3:logging-interceptor:4.10.0" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-devtools-v102:4.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.auto.service:auto-service-annotations:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.auto.service:auto-service:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.auto:auto-common:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-json:4.4.0" level="project" />
   </component>
 </module>
